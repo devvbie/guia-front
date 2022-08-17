@@ -18,6 +18,8 @@ Meu guia para a jornada do front-end em desenvolvimento web. Aqui colocarei os c
 - Typescript
 - Angular
 
+- [ ] Curso: [Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos](https://www.udemy.com/course/web-completo/)
+
 **Recomendações gerais:**
 * [ ] Ver as playlists do [@AkitaOnRails](https://twitter.com/AkitaOnRails), rodar os projetos do github na minha máquina e modificar
 * [ ] Discover da Rocketseat (nlw, Discover e ignite).
