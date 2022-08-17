@@ -24,3 +24,5 @@ Recomendações gerais:
 * [ ] [Curso de node](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
 * [ ] [Curso de Javascript](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm)
 * [ ] [Botcamp online grátis](https://www.freecodecamp.org/) com várias trilhas (front end, back end, machine learning, infosec, ...) com pequenos exercícios/desafios.]
+
+Outras tecnologias: nextjs, svelt, quasar, sveltekit, radix_ui, vercel, kbar, jquery
