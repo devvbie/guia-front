@@ -1,5 +1,5 @@
 # guia-front
-Meu guia para a jornada do front-end em desenvolvimento web. Aqui colocarei os cursos selecionados e tecnologias que almejo conhecer, com os links para os repositórios dedicados para cada curso.
+Meu guia para a jornada do front-end em desenvolvimento web. Aqui colocarei os cursos selecionados e tecnologias que almejo conhecer, com os links para os repositórios dedicados para cada curso. Baseado no roadmap: [Como iniciar em Desenvolvimento Web? O que estudar? - Rafaella Ballerini](https://www.youtube.com/watch?v=01bCZPpSQxY)
 
 - HTML/CSS
 
