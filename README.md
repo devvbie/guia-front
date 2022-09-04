@@ -28,3 +28,5 @@ Meu guia para a jornada do front-end em desenvolvimento web. Aqui colocarei os c
 * [ ] [Botcamp online grátis](https://www.freecodecamp.org/) com várias trilhas (front end, back end, machine learning, infosec, ...) com pequenos exercícios/desafios.]
 
 **Outras tecnologias:** nextjs, svelt, quasar, sveltekit, radix_ui, vercel, kbar, jquery
+
+Achei um roadmap muito completinho que gostei bastante: https://trilha.info/roadmap/backend
